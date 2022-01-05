@@ -1,2 +1,4 @@
 /.idea/
 /target/
+/src/test/resources/features/ignore/
+/src/test/java/StepDefinitions/ignore/
